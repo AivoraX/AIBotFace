@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">聊天截图助手</string>
+    <string name="start_capture">开始截图</string>
+    <string name="stop_capture">停止截图</string>
+    <string name="view_documents">查看文档</string>
+    <string name="permission_required">需要截图权限</string>
+    <string name="service_running">截图服务运行中</string>
+    <string name="tap_to_capture">点击通知栏截图</string>
+    <string name="capture_success">截图成功</string>
+    <string name="capture_failed">截图失败</string>
+    <string name="ocr_processing">正在识别文字...</string>
+    <string name="ocr_success">识别完成</string>
+    <string name="ocr_failed">识别失败</string>
+    <string name="save_success">文档已保存</string>
+    <string name="save_failed">保存失败</string>
+    <string name="no_text_found">未识别到文字</string>
+    <string name="select_app">请选择要截图的应用</string>
+    <string name="recent_documents">最近的文档</string>
+    <string name="export_document">导出文档</string>
+    <string name="delete_document">删除文档</string>
+</resources>

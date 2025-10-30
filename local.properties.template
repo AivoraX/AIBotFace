@@ -1,0 +1,21 @@
+# Android SDK 路径配置
+# 
+# 请根据你的系统和 Android SDK 安装位置修改此文件
+# 然后将文件重命名为 local.properties
+#
+# 注意：local.properties 文件不应提交到版本控制系统
+
+## Windows 示例
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+## macOS 示例
+# sdk.dir=/Users/YourUsername/Library/Android/sdk
+
+## Linux 示例
+# sdk.dir=/home/YourUsername/Android/Sdk
+
+## 如何找到 SDK 路径
+# 1. 打开 Android Studio
+# 2. File > Settings (Windows/Linux) 或 Android Studio > Preferences (macOS)
+# 3. Appearance & Behavior > System Settings > Android SDK
+# 4. 顶部显示 "Android SDK Location" 即为 SDK 路径
